@@ -10,7 +10,7 @@ namespace LibraryManagementSystem
 {
     class DataIssueBooks
     {
-        SqlConnection connect = new SqlConnection(@"Data Source=DESKTOP-22SVS82\SQLEXPRESS01;Initial Catalog=library_DB;Integrated Security=True;");
+        SqlConnection connect = new SqlConnection(DataBaseConnection.getConnectionString());
 
         public int ID { set; get; }
         public string IssueID { set; get; }

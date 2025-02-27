@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\eronr\\onedrive\\desktop\\librarymanagementsystem\\librarymanagementsystem\\addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\librarymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\eronr\\onedrive\\desktop\\librarymanagementsystem\\librarymanagementsystem\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\librarymanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\librarymanagementsystem\\issuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\issuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\librarymanagementsystem\\addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\librarymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\librarymanagementsystem\\dataaddbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\dataaddbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\librarymanagementsystem\\dataissuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\dataissuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\librarymanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\librarymanagementsystem\\issuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\issuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\librarymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,20 +43,12 @@
       "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\librarymanagementsystem\\returnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\returnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\librarymanagementsystem\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\eronr\\onedrive\\desktop\\librarymanagementsystem\\librarymanagementsystem\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\librarymanagementsystem\\dataaddbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\dataaddbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\librarymanagementsystem\\dataissuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\dataissuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\librarymanagementsystem\\returnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\returnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,128 +58,163 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
-              "ToolTip": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T21:52:02.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ReturnBooks.cs",
-              "DocumentMoniker": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\ReturnBooks.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\ReturnBooks.cs",
-              "ToolTip": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\ReturnBooks.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\ReturnBooks.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T21:52:18.744Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RegisterForm.cs",
-              "DocumentMoniker": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\RegisterForm.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\RegisterForm.cs",
-              "ToolTip": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\RegisterForm.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\RegisterForm.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T21:52:06.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\MainForm.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\MainForm.cs",
               "ToolTip": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\MainForm.cs",
               "RelativeToolTip": "LibraryManagementSystem\\MainForm.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T21:51:58.661Z"
+              "WhenOpened": "2025-02-20T21:51:58.661Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "LoginForm.cs",
               "DocumentMoniker": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\LoginForm.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\LoginForm.cs",
               "ToolTip": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\LoginForm.cs",
               "RelativeToolTip": "LibraryManagementSystem\\LoginForm.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAcwA8AAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T21:51:45.162Z"
+              "WhenOpened": "2025-02-20T21:51:45.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IssueBooks.cs",
+              "DocumentMoniker": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\IssueBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\IssueBooks.cs",
+              "ToolTip": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\IssueBooks.cs*",
+              "RelativeToolTip": "LibraryManagementSystem\\IssueBooks.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T21:51:12.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Form1.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:13:08.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataIssueBooks.cs",
+              "DocumentMoniker": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\DataIssueBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\DataIssueBooks.cs",
+              "ToolTip": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\DataIssueBooks.cs*",
+              "RelativeToolTip": "LibraryManagementSystem\\DataIssueBooks.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T21:50:16.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataBaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\DataBaseConnection.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\DataBaseConnection.cs",
+              "ToolTip": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\DataBaseConnection.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\DataBaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T21:39:11.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataAddBooks.cs",
+              "DocumentMoniker": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\DataAddBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\DataAddBooks.cs",
+              "ToolTip": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\DataAddBooks.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\DataAddBooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T21:50:06.841Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IssueBooks.cs",
-              "DocumentMoniker": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\IssueBooks.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\IssueBooks.cs",
-              "ToolTip": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\IssueBooks.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\IssueBooks.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAIwBUAAAAjAAAAAAAAAA==",
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Dashboard.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Dashboard.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Dashboard.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAA0wBAAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T21:51:12.77Z"
+              "WhenOpened": "2025-02-20T21:49:57.034Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AddBooks.cs",
               "DocumentMoniker": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\AddBooks.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\AddBooks.cs",
-              "ToolTip": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\AddBooks.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\AddBooks.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAswAkBAAAdAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\AddBooks.cs*",
+              "RelativeToolTip": "LibraryManagementSystem\\AddBooks.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T21:49:48.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Dashboard.cs",
-              "DocumentMoniker": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Dashboard.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Dashboard.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\Dashboard.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAA5wBAAAACRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T21:49:57.034Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DataAddBooks.cs",
-              "DocumentMoniker": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\DataAddBooks.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\DataAddBooks.cs",
-              "ToolTip": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\DataAddBooks.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\DataAddBooks.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T21:50:06.841Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "DataIssueBooks.cs",
-              "DocumentMoniker": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\DataIssueBooks.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\DataIssueBooks.cs",
-              "ToolTip": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\DataIssueBooks.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\DataIssueBooks.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T21:50:16.874Z"
+              "WhenOpened": "2025-02-20T21:52:02.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\RegisterForm.cs*",
+              "RelativeToolTip": "LibraryManagementSystem\\RegisterForm.cs*",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T21:52:06.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReturnBooks.cs",
+              "DocumentMoniker": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\ReturnBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\ReturnBooks.cs",
+              "ToolTip": "C:\\Users\\eronr\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\ReturnBooks.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\ReturnBooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T21:52:18.744Z",
+              "EditorCaption": ""
             }
           ]
         }
